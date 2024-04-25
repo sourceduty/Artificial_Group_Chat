@@ -13,8 +13,6 @@
 [AI Group Chat](https://github.com/sourceduty/AI-Group_Chat)
 <br>
 [Artificial Group Chat](https://chat.openai.com/g/g-r7eMW75w4-artificial-group-chat)
-<br>
-Three-way conversation between one person and two chatbots, Eric and Sasha.
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
