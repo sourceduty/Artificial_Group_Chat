@@ -10,8 +10,6 @@
 #
 ## ChatGPT
 
-[AI Group Chat](https://github.com/sourceduty/AI-Group_Chat)
-<br>
 [Artificial Group Chat](https://chat.openai.com/g/g-r7eMW75w4-artificial-group-chat)
 
 ***
