@@ -8,6 +8,8 @@
 [Chat Simulator](https://chat.openai.com/g/g-pVviDoA7V-chat-simulator)
 <br>
 [Chatbot Environment](https://github.com/sourceduty/Chatbot_Environment)
+<br>
+[Trading Bot Simulator](https://chat.openai.com/g/g-OCgWKt0lF-trading-bot-simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
