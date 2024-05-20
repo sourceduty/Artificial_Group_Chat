@@ -5,7 +5,7 @@
 #
 ### Example Usage
 
-[Example Artificial Group Chat Conve.txt](https://github.com/sourceduty/Artificial_Group_Chat/files/15381826/Example.Artificial.Group.Chat.Conve.txt)
+[Example Artificial Group Chat Conversation.txt](https://github.com/sourceduty/Artificial_Group_Chat/files/15381833/Example.Artificial.Group.Chat.Conversation.txt)
 
 #
 ### Related Links
