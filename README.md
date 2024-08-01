@@ -30,6 +30,51 @@
 ```
 
 #
+
+```
++--------------------------------------------+
+|                                            |
+|         Common Conversation Goal           |
+|       (Engaging and Balanced Group         |
+|               Discussion)                  |
+|                                            |
++-------+------------------------------------+
+        |
+        v
++-------v--------+
+|                |
+|  Conversation  |
+|     Plan:      |
+|                |
++--------------+------------------+
+|                                 |
+|    Artificial Group Chat        |
+|   - Hosts and moderates         |
+|   - Balances conversation       |
+|   - Ensures engagement          |
+|                                 |
++----------------+----------------+
+                 |
+                 |
++----------------+---------------+
+|                                |
+v                                v
++---------+            +---------+
+|         |            |         |
+|   Eric  |            |  Sasha  |
+|         |            |         |
++---------+            +---------+
+      |                    |
+      v                    v
+  +---------------------------+ 
+  |                           |
+  |           User            |
+  |                           |
+  +---------------------------+
+
+```
+
+#
 ### Example Usage
 
 [Example Artificial Group Chat Conversation.txt](https://github.com/sourceduty/Artificial_Group_Chat/files/15381833/Example.Artificial.Group.Chat.Conversation.txt)
